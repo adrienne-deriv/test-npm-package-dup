@@ -1,7 +1,7 @@
 export function whatIsDeez() {
-  return "NUTS";
+    return 'NUTS';
 }
 
 export function whatIsCandace() {
-  return "NUTS";
+    return 'NUTS';
 }
