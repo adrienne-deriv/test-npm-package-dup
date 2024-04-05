@@ -3,8 +3,6 @@ on:
     push:
         branches: [main, development]
 
-permissions:
-    contents: read # for checkout
 
 jobs:
     build_and_publish_npm:
